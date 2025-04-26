@@ -1,4 +1,15 @@
-# Optimización Geoespacial para la Expansión de Sucursales OXXO
+<div align="center"> 
+  
+  # Optimización Geoespacial para la Expansión de Sucursales OXXO
+  
+  ![Geopandas](https://img.shields.io/badge/Geopandas-1000D0?style=for-the-badge&logo=geopandas&logoColor=white)
+  ![Folium](https://img.shields.io/badge/Folium-13B1A8?style=for-the-badge&logo=folium&logoColor=white)
+  ![Shapely](https://img.shields.io/badge/Shapely-00B7A7?style=for-the-badge&logo=shapely&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+  </div>
 
 Procesamiento de datos para resolver el problema de MCLP. Datos obtenidos de la INEGI: [Directorio Estadístico Nacional de Unidades Económicas (DENUE)](https://www.inegi.org.mx/app/mapa/denue/default.aspx) y [Mapa Digital de México](https://gaia.inegi.org.mx/mdm6/?v=bGF0OjI0LjY1ODYxLGxvbjotMTA1Ljk4MjY3LHo6MixsOnQxMTFzZXJ2aWNpb3M=)
 
